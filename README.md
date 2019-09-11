@@ -1,24 +1,29 @@
-# README
+# baseballgram(野球関連の投稿アプリ)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+・野球関連の画像を投稿できるアプリケーションです。
 
-Things you may want to cover:
+## 制作背景
+・小学生の時から大学まで野球を続けており、野球が好きなので制作することを決めました。
 
-* Ruby version
+## 機能
+・新規登録・ログイン・ログアウト
+・画像の投稿・削除
+・いいね
+・コメント
+・プロフィール編集
 
-* System dependencies
+## 今後実装したい機能
+・動画投稿機能
+・プロフィールに投稿した画像を一覧表示
 
-* Configuration
+## 使用技術
+・Ruby
+・Ruby on Rails
+・Java Script
+・SQLite (開発環境)
+・PostgreSQL (本番環境)
+・Heroku
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## ER図
+![ER図](https://user-images.githubusercontent.com/52589647/64667371-8f8ad700-d494-11e9-846d-956a7712d7c7.png)
