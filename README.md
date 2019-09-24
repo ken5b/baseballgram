@@ -26,7 +26,7 @@
 ・Heroku
 
 ## ログイン方法
-test@mail.com
+メールアドレス:test@mail.com
 パスワード:12345678
 
 ## ER図
