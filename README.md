@@ -25,5 +25,9 @@
 ・PostgreSQL (本番環境)
 ・Heroku
 
+## ログイン方法
+test@mail.com
+パスワード:12345678
+
 ## ER図
 ![ER図](https://user-images.githubusercontent.com/52589647/64667371-8f8ad700-d494-11e9-846d-956a7712d7c7.png)
