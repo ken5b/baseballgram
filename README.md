@@ -17,6 +17,7 @@ https://baseballgram.herokuapp.com/users/sign_in
 ## 今後実装したい機能
 ・動画投稿機能
 ・プロフィールに投稿した画像を一覧表示
+・投稿後、画像のサイズが統一されていないので統一させる
 
 ## 使用技術
 ・Ruby
